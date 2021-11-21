@@ -1,0 +1,132 @@
+==================================================================
+https://keybase.io/codegard1
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://christopherodegard.com
+  * I am codegard1 (https://keybase.io/codegard1) on keybase.
+  * I have a public key with fingerprint C4CF DDB9 767A CFBB C291  E57A 735B CF29 F4DB 1552
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205b5149e05237416bfca5af6be7ae36951dd6a2eea9287df72c5d39c79ff54ef40a",
+      "fingerprint": "c4cfddb9767acfbbc291e57a735bcf29f4db1552",
+      "host": "keybase.io",
+      "key_id": "735bcf29f4db1552",
+      "kid": "0101e0186c12f8415272be233d413f31404856306bad1bf21d205b6ac543e17760440a",
+      "uid": "89579f5fe42e494526b442d068e19f19",
+      "username": "codegard1"
+    },
+    "service": {
+      "hostname": "christopherodegard.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1634754114,
+  "expire_in": 157680000,
+  "prev": "5831df22f90dc8997c29f4b2e74aa8741af981f33c0ca465755a8c2ab40aa8ee",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMN3AnicbZJtUBVVGMd5uRCBElBE4hDOMjEoKHt29+zLZTS0mkhnohyKFOHO2d2z
+sHK9e713uSSXi0UBvkRY1gxOCYIhNPGBACmNbBTJnGtTAYIVOVlWJBAWV5hssHYp
+vnW+nDnP/P+/8/yfc84vDw2KDHYXfLE68G381mD/2ZayIOQs2uQlRE3eQ1i9RCle
+3LBdxm7dVqrKhJUgAUVCEQJGwCSkaI4BrKhICCKFFTGHMM0KEMgyiyiMkUDxnKxw
+lARlWpA4QVEggxWGREQGoaiOYuxyulSHbmAlRlJkWRQ4lkOSIooSJQAMOcTRUJQU
+SlAYWQQQUoaxRHObDqM5EbnxOlUzasbBttje/+iX+iYBJgHPSoBSeAZAiqNETNG0
+zABaoQFDMjxkaZIVkQxEhQKymZNFEmRoDDiOJZl/+y5bxPECNOJABTMUZgQGUqzI
+MJRMsjwGggIEU+jGLgfahc10KsIuj0b4Mgij6FElbM7VDLIkKHGpbl1zlmCXJuNi
+5JLXSdouA+J0abomaXZDU6LrTrfVZOh7nKapHIu2/3A2UXXIxkANhwe73KrmIKzA
+UEq6avIBSzMcZABgMgj8vFN1YZtqKiDH8qSxzHuwx0BCngayQlGKQMoSLwicZI5S
+pDDHIMQbj40UgQcKTUukhBgWchAiXqKQaMwG8RgTZsDdDs1gG1AdFRtMt1rsQHqZ
+CxO+c2d3WIKCI4PCw0LMnxYUeXfM0v8Dn8UENRye3HI54sfs6l+e2f3CYwvb0/pz
+K96aIK/Unqitem6i/ZP9rZasZv9I+twj13KrNd9ot/+467ccu7P5qw/zC938lbAj
+5+4ZuCo8fp8+8+pfY41DJ7q416Kj+P6W7oH8tuTVk53+Tiom4yiX/bZHvjTykJz/
+4gBKjLiZOrm+ItC7L/uVvCjBU3zswZNdJ78svffpvMnozHBL7Fa/wm/Ibm8Q0j2B
+iLu+y3F/XzOUW7fjjt3je/SOb/Zloqnu497YwMFl46c/fbhho9/GxfxUfTM17PDr
+LfOxSccy1k+3rk2o7YvvCiRculH0wc72/P6IQv76+70Xobztdq+9O3VcCElKE5P4
+IwH4zmxmIDPOuuJAectmtW7mzZzLRWN/7I8ZC2sKr6+7MPn5YIVl7RS0bPQODUQP
+d/r8Ve1RiZGD8W2tEcM2a1Rx9PTeqlW63LS8YFPHFvuBYHRtorDhhpcZmVWa5mtK
+j/dkdxaAtp6UyR+C7V8nl19dk5V2ZtnUfPZo/mCou+/XmuTKbZWV9fd3OBb2Jc6t
+6ojyDgU7Z1r5vKcSNtyK7e+o7a+PO5q+sjc//TaRstfyzbPvNY+Pdv955vzBN6bi
+8k41jnsPJWgp4Hr53xXvhvx+aGL4iYG+FQ9MZ52e3VwZ44i/2LPQFLVTuVW1svuC
+vyjU/1FsReOTCWu2nxK7fgYvUfrcP1wJwQE=
+=TCwu
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/codegard1
+
+==================================================================
+
+==================================================================
+https://keybase.io/codegard1
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.codegard1.com
+  * I am codegard1 (https://keybase.io/codegard1) on keybase.
+  * I have a public key ASBbUUngUjdBa_ylr2vnrjaVHdai7qkoffcsXTnHn_VO9Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205b5149e05237416bfca5af6be7ae36951dd6a2eea9287df72c5d39c79ff54ef40a",
+      "host": "keybase.io",
+      "kid": "01205b5149e05237416bfca5af6be7ae36951dd6a2eea9287df72c5d39c79ff54ef40a",
+      "uid": "89579f5fe42e494526b442d068e19f19",
+      "username": "codegard1"
+    },
+    "merkle_root": {
+      "ctime": 1635883924,
+      "hash": "1e44b306c8c737f402f4e73058320f5cb63d9c6b05c5a06171064c515eea898e2b277e91485055de6400ea8b0b6e3d18391ee4893f5948e4a242da6aec511d40",
+      "hash_meta": "62d516e07f8f9d325aab0b3fe3841deecdc7ba851efb4e592f8c9c14558d56ad",
+      "seqno": 21123040
+    },
+    "service": {
+      "entropy": "+oLOCybB4BHk9dtgQjZsBY6h",
+      "hostname": "www.codegard1.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.8.0"
+  },
+  "ctime": 1635883954,
+  "expire_in": 504576000,
+  "prev": "5d50fdb89ab77dc86bc8c6923e883a895243780ee5c9e4e223e8bae368f9befd",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgW1FJ4FI3QWv8pa9r5642lR3Wou6pKH33LF05x5/1TvQKp3BheWxvYWTESpcCD8QgXVD9uJq3fchryMaSPog6iVJDeA7lyeTiI+i642j5vv3EIE6daESnbFv/GuQjD81a6VWZ+DT8p2pK8sbMhKumFpDAAgHCo3NpZ8RA+SH7vv5tFPQOPo8xJg193vl22G7250+XmXU7gZHYcWFEcsl7x9Bg5X7xtUC7SwNU29n+GDTzwBfM8JKO8rulCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPpdbKpBXvJEYprY7tuPXyp2MPZlIJLCBvj/2ELK76Neo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/codegard1
+
+==================================================================
