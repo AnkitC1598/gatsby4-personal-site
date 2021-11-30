@@ -5,8 +5,6 @@ import { Link } from "gatsby";
 import React from "react";
 import SiteNav from "./site-nav";
 
-
-
 const Layout = ({ location, title, children }) => {
 	const rootPath = `${__PATH_PREFIX__}/`;
 	const isRootPath = location.pathname === rootPath;

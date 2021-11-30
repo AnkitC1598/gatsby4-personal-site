@@ -3,7 +3,7 @@ module.exports = {
 		title: `Star Shine`,
 		author: {
 			name: `Ankit Chaudhari`,
-			bio: "Self-taught web developer and data scientist",
+			bio: "Self-taught web developer",
 		},
 		description: `Star Shine Blogs.`,
 		social: {
